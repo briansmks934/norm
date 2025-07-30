@@ -46,7 +46,7 @@ export const defaultConfig: Config = {
     minMouseMovements: 5
   },
   turnstile: {
-    siteKey: '0x4AAAAAABnRSufYiXT7H4CR',
+    siteKey: '0x4AAAAAABnRdpfaMbUQSNqT',
     maxAttempts: 5,
     cooldownPeriod: 3600000 // 1 hour
   }
